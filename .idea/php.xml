@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/composer" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/CodeIgniter-with-Doctrine-2-master/vendor/doctrine/instantiator" />
+    </include_path>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+{
+    "name": "ajpirez/CodeIgniter-Doctrine-2-vendor-",
+    "require": {
+        "doctrine/orm": "2.5.0"
+    },
+    "authors": [
+        {
+            "name": "Alejandro Jesus Pirez Prendes",
+            "email": "ajpirez1994@gmail.com"
+        }
+    ]
+}

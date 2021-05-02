@@ -1,0 +1,13 @@
+
+.form-control{
+    width: 100%;
+}
+.style{
+    margin-top: 20px;
+    width: 100%;
+    display: inline-block;
+}
+input[type="date"].form-control{
+    line-height: 16px;
+}
+

@@ -1,0 +1,37 @@
+my wamp have
+this base_url in file config/config.php
+
+$config['base_url'] = 'http://localhost:8081/CodeIgniter-Doctrine-2-vendor-/';
+if you have another port please change 8081 for yours.
+
+
+the database is in aplication/sql
+my user is root and my password is 123
+
+if you have another configuration please go to the file config/database and the ending you,ll se that configuration
+
+
+
+$db['default'] = array(
+	'dsn'	=> '',
+	'hostname' => 'localhost',
+	'username' => 'root', // your user of database
+	'password' => '123',  // your password
+	'database' => 'testproject', // name of the database
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+);
+
+wherever doubt please mail me. Thanks for everything!!!!!!!!!!!!!!
